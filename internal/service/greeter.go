@@ -3,8 +3,8 @@ package service
 import (
 	"context"
 
-	v1 "kratos-skeleton/api/helloworld/v1"
-	"kratos-skeleton/internal/biz"
+	v1 "github.com/itechzero/kratos-skeleton/api/helloworld/v1"
+	"github.com/itechzero/kratos-skeleton/internal/biz"
 )
 
 // GreeterService is a greeter service.

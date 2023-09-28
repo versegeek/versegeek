@@ -6,11 +6,11 @@
 package main
 
 import (
-	"kratos-skeleton/internal/biz"
-	"kratos-skeleton/internal/conf"
-	"kratos-skeleton/internal/data"
-	"kratos-skeleton/internal/server"
-	"kratos-skeleton/internal/service"
+	"github.com/itechzero/kratos-skeleton/internal/biz"
+	"github.com/itechzero/kratos-skeleton/internal/conf"
+	"github.com/itechzero/kratos-skeleton/internal/data"
+	"github.com/itechzero/kratos-skeleton/internal/server"
+	"github.com/itechzero/kratos-skeleton/internal/service"
 
 	"github.com/go-kratos/kratos/v2"
 	"github.com/go-kratos/kratos/v2/log"
